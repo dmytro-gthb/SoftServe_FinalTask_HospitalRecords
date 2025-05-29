@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftServe_FinalTask_HospitalRecords", "SoftServe_FinalTask_HospitalRecords\SoftServe_FinalTask_HospitalRecords.csproj", "{35DA8BED-58FC-4668-97A8-6075473014EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DA8BED-58FC-4668-97A8-6075473014EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DA8BED-58FC-4668-97A8-6075473014EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DA8BED-58FC-4668-97A8-6075473014EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DA8BED-58FC-4668-97A8-6075473014EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67EF1CB6-4A0A-4855-AF9B-0B3CE5C20E50}
+	EndGlobalSection
+EndGlobal
