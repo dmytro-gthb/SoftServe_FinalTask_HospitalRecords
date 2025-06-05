@@ -5,6 +5,8 @@ VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftServe_FinalTask_HospitalRecords", "SoftServe_FinalTask_HospitalRecords\SoftServe_FinalTask_HospitalRecords.csproj", "{35DA8BED-58FC-4668-97A8-6075473014EC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftServe_FinalTask_HospitalRecords.Tests", "SoftServe_FinalTask_HospitalRecords_Tests\SoftServe_FinalTask_HospitalRecords.Tests.csproj", "{54A14EFC-9C22-4181-BF63-833A871E5CB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{35DA8BED-58FC-4668-97A8-6075473014EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35DA8BED-58FC-4668-97A8-6075473014EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35DA8BED-58FC-4668-97A8-6075473014EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A14EFC-9C22-4181-BF63-833A871E5CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A14EFC-9C22-4181-BF63-833A871E5CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A14EFC-9C22-4181-BF63-833A871E5CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A14EFC-9C22-4181-BF63-833A871E5CB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
